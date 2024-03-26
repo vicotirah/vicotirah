@@ -12,10 +12,10 @@
 </div>
   
 <div style="display: in line block"><br>
-<img aling="center" alt="Vi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img aling="center" alt="Vi-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
-<img aling="center" alt="Vi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img aling="right" alt="Vi-gif" height="100" width="100" src="https://media.discordapp.net/attachments/1222234718616158241/1222235276793872404/gifmaker_me.gif?ex=66157a4e&is=6603054e&hm=b96f468b4f89f4ded430f7d505ed4e2338e33070e2aa9047b0af6eaea4a2210d&=&width=427&height=427"/>
+<img align="center" alt="Vi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="center" alt="Vi-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+<img align="center" alt="Vi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="right" alt="Vi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/1222234718616158241/1222235276793872404/gifmaker_me.gif?ex=66157a4e&is=6603054e&hm=b96f468b4f89f4ded430f7d505ed4e2338e33070e2aa9047b0af6eaea4a2210d&=&width=427&height=427"/>
 </div>
 
 ##
