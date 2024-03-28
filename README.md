@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Victória Rocha
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 👯 Procurando um estágio na área de desenvolvimento 
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 🎓 Formada em engenharia de produção
 - 😄 Pronomes: ela/dela
 
