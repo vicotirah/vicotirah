@@ -24,9 +24,4 @@
 <a href="https://www.linkedin.com/in/vict%C3%B3ria-rocha-98b372163/" target="blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href= target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-
-
-
-
-  
 </div>
