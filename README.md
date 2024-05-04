@@ -8,8 +8,12 @@
 <a href="https://github.com/vicotirah">
 <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=vicotirah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="160em" width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicotirah&layout=compact&langs_count=16&theme=dracula"/>
+
 </div>
-  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicotirah&layout=compact)
+
 <div style="display: in line block"><br>
 <img align="center" alt="Vi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="center" alt="Vi-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
