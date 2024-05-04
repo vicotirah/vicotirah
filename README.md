@@ -6,10 +6,11 @@
 
 <div>
 <a href="https://github.com/vicotirah">
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=vicotirah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="160em" width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicotirah&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=dracula"/>
 </a>
 </div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vicotirah&theme=dracula&border_radius=20&card_width=500&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)]
 
 
 <div style="display: in line block"><br>
