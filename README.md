@@ -6,12 +6,11 @@
 
 <div>
 <a href="https://github.com/vicotirah">
-<img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&layout=compact&card_width=445&border_radius=30&hide_border=false&theme=dracula"/>
+<img align="center" height="300" width="400" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&hide_border=true&theme=radical"/>
 </a>
+
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=vicotirah&theme=radical&hide_border=true&border_radius=20&card_height=100&card_width=400&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=monthly&fire=FF530E"/>
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vicotirah&theme=dracula&border_radius=20&card_width=500&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)
-
 
 <div style="display: in line block"><br>
 <img align="center" alt="Vi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
