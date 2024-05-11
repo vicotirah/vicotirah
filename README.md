@@ -10,7 +10,7 @@
 </a>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vicotirah&theme=dracula&border_radius=20&card_width=500&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)]
+![GitHub Streak](https://streak-stats.demolab.com?user=vicotirah&theme=dracula&border_radius=20&card_width=500&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF530E)
 
 
 <div style="display: in line block"><br>
