@@ -6,7 +6,7 @@
 
 <div>
 <a href="https://github.com/vicotirah">
-<img align="center" height="300" width="400" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&hide_border=true&theme=radical"/>
+<img align="center" height="300" width="400" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&layout=compact&hide_border=true&theme=radical"/>
 </a>
 
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=vicotirah&theme=radical&hide_border=true&border_radius=20&card_height=100&card_width=400&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=monthly&fire=FF530E"/>
