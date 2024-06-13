@@ -3,6 +3,7 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 🎓 Formada em engenharia de produção
 - 😄 Pronomes: ela/dela
+- 🔍 Focando em HTML, CSS, Python e SQL
 
 <div>
 <a href="https://github.com/vicotirah">
