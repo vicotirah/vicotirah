@@ -15,7 +15,7 @@
 <div style="display: in line block"><br>
 <img align="center" alt="Vi-Python" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="center" alt="Vi-SQL" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="Vi-C++" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+<img align="center" alt="Vi-C" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="center" alt="Vi-HTML" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="Vi-CSS" height="5%" width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="right" alt="Vi-gif" height="150" width="150" src="https://media.discordapp.net/attachments/1222234718616158241/1222235276793872404/gifmaker_me.gif?ex=66157a4e&is=6603054e&hm=b96f468b4f89f4ded430f7d505ed4e2338e33070e2aa9047b0af6eaea4a2210d&=&width=427&height=427"/>
