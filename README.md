@@ -3,7 +3,7 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 🎓 Formada em engenharia de produção
 - 😄 Pronomes: ela/dela
-- 🔍 Focando em JavaScript, Python e SQL
+- 🔍 Focando em Python e SQL
 
 <div>
 <a href="https://github.com/vicotirah">
