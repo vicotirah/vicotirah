@@ -2,7 +2,6 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 🎓 Formada em engenharia de produção
-- 😄 Pronomes: ela/dela
 - 🔍 Focando em Python e SQL
 
 <div>
@@ -12,7 +11,7 @@
 </a>
 </div>
 
-##
+## Linguagens e Ferramentas
 
 <div style="display: in line block"><br>
 <img align="center" alt="Vi-Python" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -24,9 +23,7 @@
 <img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-
-
-##
+## Social Media
 
 <div>
 <a href="https://www.linkedin.com/in/vict%C3%B3ria-rocha-98b372163/" target="blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
