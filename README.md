@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 - 🎓 Formada em engenharia de produção
-- 🔍 Focando em Python e SQL
+- 🔍 Focando em JavaScript, HTML e CSS
 
 <div>
 <a href="https://github.com/vicotirah">
