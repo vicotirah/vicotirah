@@ -14,13 +14,14 @@
 ## Linguagens e Ferramentas
 
 <div style="display: in line block"><br>
+<img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="Vi-Python" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="Vi-Flask" height="5%" width="5%" src= "https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png?raw=true"/>
-<img align="center" alt="Vi-SQL" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="Vi-C" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Vi-HTML" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="Vi-CSS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Vi-SQL" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="center" alt="Vi-Flask" height="5%" width="5%" src= "https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png?raw=true"/>
 </div>
 
 ## Social Media
