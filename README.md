@@ -1,27 +1,27 @@
-## Olá! Eu sou a Victória Rocha
+## Hi, i'm Victoria!
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
-- 🎓 Formada em engenharia de produção
-- 🔍 Focando em Java
+- 🌱 Trainee Backend Developer - Java 
+- 🎓 Barchelor Production Engineering
 
 <div>
 <a href="https://github.com/vicotirah">
-<img align="center" height="250" width="400" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&layout=compact&hide_border=true&theme=radical"/>
-<img align="center" height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=vicotirah&hide_border=true&theme=radical&rank_icon=github"/>
+<img align="center" height="250" width="500" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&layout=compact&hide_border=true&theme=radical"/>
+<img align="center" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=vicotirah&hide_border=true&theme=radical&rank_icon=github"/>
 </a>
 </div>
 
-## Linguagens e Ferramentas
+## Programming Languages and Tools
 
 <div style="display: in line block"><br>
 <img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Vi-Spring" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
 <img align="center" alt="Vi-Python" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="center" alt="Vi-C" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 <img align="center" alt="Vi-JS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Vi-HTML" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="Vi-CSS" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Vi-SQL" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="center" alt="Vi-Flask" height="5%" width="5%" src= "https://github.com/pallets/flask/blob/main/docs/_static/shortcut-icon.png?raw=true"/>
+
 </div>
 
 ## Social Media
