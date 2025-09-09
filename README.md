@@ -5,8 +5,8 @@
 
 <div>
 <a href="https://github.com/vicotirah">
-<img align="center" height="250" width="500" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&layout=compact&hide_border=true&theme=radical"/>
-<img align="center" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=vicotirah&hide_border=true&theme=radical&rank_icon=github"/>
+<img align="center" height="250" width="400" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=vicotirah&border_radius=30&layout=compact&hide_border=true&theme=radical"/>
+<img align="center" height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=vicotirah&hide_border=true&theme=radical&rank_icon=github"/>
 </a>
 </div>
 
